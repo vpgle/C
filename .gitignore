@@ -6,8 +6,6 @@
 *.ppx
 *.tag
 
-output/
-/output/*
 
 # ²»ºöÂÔÎÄ¼ş.gitignore
 !.gitignore

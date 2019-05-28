@@ -1,3 +1,0 @@
-# C
-.gitignore test
-HEHE
