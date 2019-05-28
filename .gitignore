@@ -1,0 +1,9 @@
+#*/*/*[!c]
+#*/*[!c]
+*[!c]
+output/*
+/output/*
+*/output
+
+# ²»ºöÂÔÎÄ¼ş.gitignore
+!.gitignore
