@@ -5,7 +5,9 @@
 *.ppj
 *.ppx
 *.tag
+*.obj
 
+output/
 
 # ²»ºöÂÔÎÄ¼ş.gitignore
 !.gitignore
