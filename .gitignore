@@ -1,7 +1,12 @@
 #*/*/*[!c]
 #*/*[!c]
 *[!c]
-output/*
+
+*.ppj
+*.ppx
+*.tag
+
+output/
 /output/*
 */output
 
